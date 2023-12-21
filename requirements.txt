@@ -13,3 +13,4 @@ inflect
 PyQt5
 multiprocess
 numba
+fonttools>=4.43.0 # not directly required, pinned by Snyk to avoid a vulnerability
