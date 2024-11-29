@@ -13,3 +13,4 @@ inflect
 PyQt5
 multiprocess
 numba
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
